@@ -8,8 +8,6 @@ let seven = document.getElementById("seven");
 let eight = document.getElementById("eight");
 let nine = document.getElementById("nine");
 
-let screen = document.getElementById("screen");
-
 one.addEventListener("click", () => {
     imgConatin.src = "https://ga-instruction.s3.amazonaws.com/assets/front-end-web-development/fewd-conditionals-images/blue-planet.jpg";
 })
